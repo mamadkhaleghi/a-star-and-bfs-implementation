@@ -4,7 +4,7 @@
 This repository contains the implementation of various search algorithms to find the shortest path between two provincial centers in Iran. The project focuses on implementing the A* search algorithm and Breadth-First Search (BFS) algorithm to determine the optimal route with the minimum distance. The implementation includes data handling, heuristic calculations, and neighbor expansions to achieve efficient pathfinding.
 
 ## Features
-- **A* Search Algorithm**
+- **"A-start Search Algorithm**
   - Utilizes heuristic-based search for efficient pathfinding.
   - Calculates the shortest path between two provincial centers.
   - Outputs the order of cities visited and the total distance.
